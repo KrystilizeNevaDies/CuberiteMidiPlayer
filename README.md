@@ -18,7 +18,7 @@ Command:
 /play wethands
 
 
-####TODO:
+#### TODO:
 - /stop command
 - GUI
 - Correct Tempo Calculations
